@@ -7,7 +7,7 @@
 
   <h3> 💻 Languages and Tools </h3>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="305" />
-<br/><br/><br/><br/>
+
 
 - 💻 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
