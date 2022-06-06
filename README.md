@@ -7,7 +7,7 @@
 
   
   
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="430" height="305" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="305" />
 
   <h3> 💻 Languages and Tools </h3>
 
